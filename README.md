@@ -14,4 +14,4 @@ Version V3 (with OCR and visualisation) [needs as input in th code a pre determi
  
   Classifier: DOC2VEC
   Embedding: SciBERT
-  Dependencies: pip install pdfplumber numpy matplotlib seaborn PIL pytesseract spacy gensim transformers torch scikit-learn logging os pandas pdf2image  
+  Dependencies: pip install pdfplumber numpy matplotlib seaborn pillow pytesseract spacy gensim transformers torch scikit-learn logging os pandas pdf2image  
